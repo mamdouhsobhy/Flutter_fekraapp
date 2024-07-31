@@ -74,6 +74,7 @@ class _ExamPageState extends State<ExamPage> {
         title: "Exam",
         desc: "you answered $correct correct from ${appBrain.getQuestionLength()} questions",
         buttons: [
+
           DialogButton(
             child: Text(
               "Try again",
