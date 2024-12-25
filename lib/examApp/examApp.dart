@@ -7,9 +7,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 
-void main() {
-  runApp(ExamApp());
-}
+// void main() {
+//   runApp(ExamApp());
+// }
 
 class ExamApp extends StatelessWidget {
   @override

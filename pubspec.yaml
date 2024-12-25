@@ -33,4 +33,12 @@ flutter:
    - assets/
 
 
+  fonts:
+   - family: tajawal
+     fonts:
+       - asset: fonts/tajawal_bold.ttf
+       - asset: fonts/tajawal_medium.ttf
+       - asset: fonts/tajawal_regular.ttf
+
+
 
