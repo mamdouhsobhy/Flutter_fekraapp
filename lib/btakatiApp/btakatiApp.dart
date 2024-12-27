@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 
-void main(){
-  runApp(BtakatiApp());
-}
+// void main(){
+//   runApp(BtakatiApp());
+// }
 
 class BtakatiApp extends StatelessWidget {
   const BtakatiApp({super.key});
