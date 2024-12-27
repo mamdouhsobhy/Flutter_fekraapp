@@ -23,6 +23,7 @@ class MusicApp extends StatelessWidget {
   Widget musicItem() {
     return Expanded(
       flex: 1,
+
       child: Padding(
         padding: const EdgeInsets.only(bottom: 1.0),
         child: TextButton(
